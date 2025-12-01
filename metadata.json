@@ -1,0 +1,7 @@
+{
+  "name": "BOQU JAPAN - Water & Art",
+  "description": "Premium water feature and fountain engineering company website adapted for the Japanese market, featuring AI design consultation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
